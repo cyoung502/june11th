@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "TextureHub/destruction/destruct_wallE2_spi"
+	"$bumpmap"     "TextureHub/destruction/destruct_wallE2_norm_spi"
+	"$surfaceprop" "brick"
+	"$keywords" "TextureHub"
+}

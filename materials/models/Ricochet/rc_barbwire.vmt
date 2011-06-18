@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Ricochet/rc_barbwire"
+	"$translucent" 1
+	"$model"	1
+	"$nocull" 1
+	"$surfaceprop" "metal"
+}
+
+

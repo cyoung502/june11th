@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "TextureHub/destruction/destruct_sidewalk1_spi"
+	"$bumpmap"     "TextureHub/destruction/destruct_sidewalk1_norm_spi"
+	"$surfaceprop" "concrete"
+	"%keywords" "TextureHub"
+}

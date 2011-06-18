@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+       
+{
+       	"$translucent" 1
+       	"$baseTexture" "TextureHub/destruction/destruct_gate1_spi"
+	"$surfaceprop" "metal"
+	"%keywords" "TextureHub"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_fortifications/trench_support"
+	"$surfaceprop" "Wood_Solid"
+	"$model" 1
+}

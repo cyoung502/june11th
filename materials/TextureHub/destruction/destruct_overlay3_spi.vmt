@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "TextureHub/destruction/destruct_overlay3_spi"
+	"$decal" 1
+	"$translucent" 1
+	"$decalscale" 0.25
+	"%keywords" "TextureHub"
+}

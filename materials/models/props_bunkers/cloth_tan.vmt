@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_bunkers/cloth_tan"
+	"$surfaceprop" "cloth"
+	"$bumpmap" "models/props_bunkers/cloth_tan_normal"
+}
+:

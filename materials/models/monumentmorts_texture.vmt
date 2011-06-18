@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"models/monumentmorts_texture"
+	"$selfIllum"			0
+	"$translucent"			0
+	"$alpha"				1
+	"$bumpmap" "models/monumentMorts_normal"
+}

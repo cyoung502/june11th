@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_vehicles/gmc_cckw_window"
+	"$translucent" 1
+	"$nocull" 1
+	"$model" 1
+	"$surfaceprop" "glass"
+}

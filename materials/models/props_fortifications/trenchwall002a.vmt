@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "models/props_fortifications/trenchwall002a"
+	"$surfaceprop" "wood"
+}

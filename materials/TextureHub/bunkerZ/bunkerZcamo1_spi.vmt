@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$alphatest" 1
+	"$baseTexture" "TextureHub/bunkerZ/bunkerZcamo1_spi"
+	"$surfaceprop" "foliage"
+	"$nocull" 1
+	"$nodecal" 1
+	"%compileNonSolid" 1
+        "%keywords" "TextureHub"
+}

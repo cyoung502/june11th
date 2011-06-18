@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_ordnance/nebelwerfer_v01_darkmetal"
+	"$bumpmap" "models\props_ordnance/nebelwerfer_v01_normal"
+	"$alphatest" 1
+	"$model" 1
+}

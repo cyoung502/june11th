@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "TextureHub/tudor/tudorG1_spi"
+	"$bumpmap" "TextureHub/tudor/tudorG1norm_spi"
+	"$surfaceprop" "concrete"
+	"%keywords" "TextureHub"
+}

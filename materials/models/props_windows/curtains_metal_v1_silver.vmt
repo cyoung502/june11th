@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_windows/curtains_metal_v1_silver"
+	"$model" 1
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "TextureHub/decal/decal_poster26_spi"
+	"$decal" 1
+	"$translucent" 1
+	"$decalscale" 0.25
+	"%keywords" "TextureHub"
+}

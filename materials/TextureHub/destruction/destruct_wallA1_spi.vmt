@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "TextureHub/destruction/destruct_wallA1_spi"
+	"$surfaceprop" "concrete"
+	"%keywords" "TextureHub"
+}

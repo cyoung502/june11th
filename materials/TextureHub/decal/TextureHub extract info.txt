@@ -1,0 +1,37 @@
+_______________________________________________________________________________
+
+##TextureHub extract info##
+_______________________________________________________________________________
+
+To extract, point to your materials folder in day of defeat source folder.
+(Or in any other HLsource game folder, as long as it's under the materials folder.)
+
+Steam/SteamApps/"your e-mail"/day of defeat source/dod/materials
+(make shure that you have "use folder names" marked in your unzip program)
+Zip/Rar creates a TextureHub folder with appropriate sub folder like e.g. bunkerZ.
+
+Change vmt adress at will but please keep texture name if possible.
+To find the textures in Hammer use browse and type TextureHub in Keywords box.
+
+
+Cheers 
+spine
+
+www.texturehub.net
+spine@texturehub.net
+_______________________________________________________________________________
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Terms of use.
+
+Feel free to use the textures in my downloads page in any free mod/map project.
+Please credit me and preferable put www.texturehub.net in the readme text.
+
+(If you want to use them in a commercial project, 
+get in touch with me and we can work out a deal.)
+
+All textures are ©spine and www.TextureHub.net.
+All rights reserved.
+_______________________________________________________________________________
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/props_skybox/c47_usaaf_skybox"
+	"$surfaceprop"	"metal"
+	"$model"	"1"
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_vehicles/gmc_cckw_destroyed01_plane_winter"
+	"$bumpmap" "models\props_vehicles/gmc_cckw_destroyed01_plane_winter_normalmap"
+	"$alphatest" 1
+	"$nocull" 1
+	"$model" 1
+	"$surfaceprop" "metal"
+}

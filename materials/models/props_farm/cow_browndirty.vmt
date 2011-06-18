@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_farm/cow_browndirty"
+	"$alphatest" 1
+}

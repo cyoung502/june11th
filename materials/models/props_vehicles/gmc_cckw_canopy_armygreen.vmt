@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_vehicles/gmc_cckw_canopy_armygreen"
+	"$bumpmap" "models\props_vehicles/gmc_cckw_canopy_armygreen_normalmap"
+	"$model" 1
+	"$surfaceprop" "carpet"
+}

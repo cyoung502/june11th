@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Ricochet/rc_phonepole_snow"
+	"$model"	1
+	"$surfaceprop" "wood"
+}
+
+

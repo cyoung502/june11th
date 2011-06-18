@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Ricochet/well_skin1024"
+	"$model"	1
+	"$surfaceprop" "wood"
+}
+
+

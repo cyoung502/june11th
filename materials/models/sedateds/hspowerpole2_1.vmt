@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sedateds/hspowerpole2_1"
+	"$bumpmap" "models/sedateds/hspowerpole2_1_normal"
+
+}

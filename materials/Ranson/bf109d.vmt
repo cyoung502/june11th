@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Ranson/bf109d"
+	"$surfaceprop" "metal"
+	"$nocull" "1"
+        "$model" "1"
+}
+
+
+

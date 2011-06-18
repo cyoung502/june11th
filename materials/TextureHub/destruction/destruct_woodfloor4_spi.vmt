@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "TextureHub/destruction/destruct_woodfloor4_spi"
+	"$bumpmap"     "TextureHub/destruction/destruct_woodfloor4_norm_spi"
+	"$surfaceprop" "Wood_Plank"
+	"%keywords" "TextureHub"
+}

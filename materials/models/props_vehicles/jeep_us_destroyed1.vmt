@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_vehicles/jeep_us_destroyed1"
+	"$bumpmap" "models\props_vehicles/jeep_us_normal_destroyed"
+}

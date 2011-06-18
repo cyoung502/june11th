@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Ricochet/rc_chapel_1024"
+	"$model"	1
+	"$surfaceprop" "concrete"
+}
+
+
