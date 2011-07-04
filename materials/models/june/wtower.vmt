@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture"   "models/june/wtower"
+	"$normalmapalphaenvmapmask" "1"
+	"$bumpmap"       "models/june/wtower_n"
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "1"
+  "$halflambert"   "1"
+    "$phong"         "1"
+	"$phongboost"	 "1"
+	"$phongtint"     "243 188 124"
+	"$phongfresnelranges" "0 0.5 1"
+//	"$ambientocclusiontexture" "models/june/wtower_a"
+	"$surfaceprop"   "Metal"
+}
