@@ -1,0 +1,1 @@
+This project is aimed to recreate the map dod\_june11 for DOD:S.  It will be a complete conversion following the original map's brushwork.  It will have displacements for terrain, all new models but will still play as the original map intended, nothing new.
